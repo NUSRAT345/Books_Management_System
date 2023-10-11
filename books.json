@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Silent Garden",
+        "author": "Jane Doe",
+        "pages": 320,
+        "available":"true",
+        "ISBN": 9781234567890
+    },
+    {
+        "title": "Echoes of Eternity",
+        "author": "John Smith",
+        "pages": 400,
+        "available":"true",
+        "ISBN": 9781234567906
+    },
+    {
+        "title": "Beyond the Horizon",
+        "author": "Emily Johnson",
+        "pages": 280,
+        "available":"true",
+        "ISBN": 9781234567913
+    },
+    {
+        "title": "The Enigma Code",
+        "author": "Michael Lee",
+        "pages": 360,
+        "available":"true",
+        "ISBN": 9781234567920
+    },
+    {
+        "title": "Lost in Translation",
+        "author": "Sarah Adams",
+        "pages": 240,
+        "available":"true",
+        "ISBN": 9781234567937
+    }
+]
